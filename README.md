@@ -1,1 +1,1 @@
-https://freelancer-namcyeon.vercel.app
+https://freelancer-np.vercel.app/
